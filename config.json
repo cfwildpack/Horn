@@ -1,0 +1,8 @@
+{
+  "animal": "Bull",
+  "hornType": "Curved",
+  "averageLengthCm": 75,
+  "material": "Keratin",
+  "growthRateCmPerYear": 5,
+  "habitat": "Grassland"
+}
